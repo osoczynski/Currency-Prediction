@@ -1,0 +1,13 @@
+training_percent = 0.7
+testing_percent = 1 - training_percent
+previous_data_points = 3
+currency = ""
+currency_index = 0
+data_set_length = 0
+training_set_length = 0
+testing_set_length = 0
+p = 0
+d = 0
+q = 0
+epochs = 50
+batch_size = 2
